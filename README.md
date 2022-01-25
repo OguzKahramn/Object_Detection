@@ -1,5 +1,8 @@
 # Object_detection
 The program is using trained coco dataset can detect 80 different objects and returned the processed image after detection with bounding boxes and the prediction accuracy. According to ObjectDetectionImg.py program, 50 percent is threshold. In another words, the predictions whose accuracy less than 50 percent will be ignored. The object list is following:
+
+Objects |
+------------- |
 person
 bicycle
 car
